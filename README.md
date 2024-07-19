@@ -1,4 +1,4 @@
-### Project Description: Movie Recommender System
+### Movie Recommender System
 
 **Overview:**
 The Movie Recommender System is a web application built using Streamlit that provides movie recommendations based on user input. It leverages a pre-trained similarity model to suggest movies similar to a selected title and fetches movie posters from The Movie Database (TMDb) API to enhance the user experience.
